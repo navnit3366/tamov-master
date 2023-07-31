@@ -1,0 +1,1 @@
+web: python tamov_heroku.py
